@@ -1,5 +1,5 @@
     Organizes files in a folder by moving them into subfolders based on their extensions.
-    Very usefull for "Download" Folder.
+    Very useful for "Download" Folder.
     "
     Subfolders and file-types can be edited for your needs easly.
     
